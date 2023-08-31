@@ -12,7 +12,12 @@ mapConstTone2ToneConst = {'n1':  '1n',
                           'r1':  '1r',
                           'r2':  '2r',
                           'r3':  '3r',
-                          'r4':  '4r'}
+                          'r4':  '4r',
+                          'ng1': 'n1g',
+                          'ng2': 'n2g',
+                          'ng3': 'n3g',
+                          'ng4': 'n4g',
+                          }
 
 # map vowel+vowel+tone to vowel+tone+vowel
 mapVowelVowelTone2VowelToneVowel = {'ai1': 'a1i',
